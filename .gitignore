@@ -1,0 +1,5 @@
+.terraform.lock.hcl
+.terraform/
+lab2-terraform.pdf
+terraform.tfstate
+terraform.tfstate.backup
